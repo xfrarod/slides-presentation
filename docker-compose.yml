@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  app:
+    build: .
+    image: nginx 
+    ports:
+      - 8089:80
+    volumes:
+      - .:/usr/share/nginx/html
