@@ -7,3 +7,11 @@
 ## Devsecops
 
 * DevSecOps strives to automate core security tasks by embedding security controls and processes into the DevOps workflow. DevSecOps originally focused primarily on automating code security and testing, but now it also encompasses more operations-centric controls.
+
+
+
+## Demo 
+
+
+
+## Thank You 

@@ -1,11 +1,8 @@
 
-# Devsecops
-
-####  Secure, store and encrypt continuously
----
-
-#DevSecOps
+# CI/CD 101 
 
 ---
 
-####  security is everyone responsibility
+#continuousintegration
+
+---
