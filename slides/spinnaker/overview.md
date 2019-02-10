@@ -126,3 +126,12 @@
 * Kayenta: platform for Automated Canary Analysis (ACA). 
 * Halyard: A tool for configuring, installing, and updating Spinnaker.
 
+
+# Install Spinnaker
+* Spinnker requires at least 4 cores and 8GB of RAM.
+
+
+# Install Spinnaker
+
+* Spinnaker requires an external storage provider for persisting your application settings and configured pipelines.
+* Data are sensitive and can be costly to lose.
