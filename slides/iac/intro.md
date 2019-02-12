@@ -28,6 +28,7 @@
 ![ci_cd_pipeline](img/ci_cd_pipeline.png)
 
 
+
 ## Category of IaC tools
 
 
@@ -108,7 +109,7 @@
 
 * is an open source IaC tool.
 * was developed by Hashicorp
-* is a tool for buildingk changing, and versioning infrastructure safely and efficient.
+* is a tool for building, changing, and versioning infrastructure safely and efficient.
 
 
 ## Terraform

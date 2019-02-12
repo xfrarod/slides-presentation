@@ -6,7 +6,13 @@
 ![partners](../../../img/partners.png)
 
 
-![partners](../../../img/locations_dou.png)
+![location](../../../img/locations_dou.png)
+
+
+## DOU is one of the faster-growing startups of silicon valley.
+
+* +200 employees in 3 years.
+* DoU plans to double its operations this year.
 
 
 <!-- .slide: data-background="../../../img/twitter-logo.jpg" data-background-size="contain" -->
